@@ -2,8 +2,31 @@
   "first_name": "Xenia",
   "last_name": "Damanciuc",
   "age": null,
+  "gender": "female",
   "address": {
-    "city": null,
-    "postalCode": "10021-3100"
-  }
+    "city": "Chisinau",
+    "postalCode": "MD-2000"
+  },
+  "pets": [
+    {
+      "type": "Cat",
+      "name": "Murmi"
+    }
+  ],
+  "favorite_movies": [
+    {
+      "name": "Lara Croft",
+      "actors": [
+        {
+          "name": "Alicia",
+          "surname": "Vikander"
+        },
+        {
+          "name": "Dominic",
+          "surname": "West"
+        }
+      ],
+      "year": 2018
+    }
+  ]
 }
